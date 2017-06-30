@@ -1,0 +1,3 @@
+import mofreak
+
+MoFREAK = mofreak
