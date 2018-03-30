@@ -1,7 +1,7 @@
-Mofreak
+MoFREAK
 ===========
 
-MoFreak motion descriptor for action recognition.
+MoFREAK motion descriptor for action recognition.
 
 Requires opencv and opencv_contrib, see `Dockerfile` for more information.
 
